@@ -21,7 +21,10 @@ Welcome to my GitHub 💖
     <img align="center" alt="myslq" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 Completely in love with technology 💗
+<div align="center">
 
 ![gif](https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif)
 
-monalizapsilva@live.com
+</div>
+
+[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](monalizapsilva@live.com/)
