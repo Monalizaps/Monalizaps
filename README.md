@@ -3,9 +3,11 @@ I'm Front-End Developer 🖥️
 
 Welcome to my GitHub 💖
 
+<div align="center">
+
 ![Monaliza's GitHub stats](https://github-readme-stats.vercel.app/api?username=monalizaps&show_icons=true&theme=radical)
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monaliza-pereira/) [![nstragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monitapereira/)
+</div>
 
 ## Technologies I work with 💻
 
@@ -21,10 +23,16 @@ Welcome to my GitHub 💖
     <img align="center" alt="myslq" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div></br>
 Completely in love with technology 💗
+
 <div align="center">
 
 ![gif](https://i.pinimg.com/originals/57/18/5d/57185d2176d7cbaebdb74c00ce1b9ebf.gif)
 
 </div>
 
+<div align="center">
+
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monaliza-pereira/) [![nstragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/monitapereira/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](monalizapsilva@live.com/)
+
+</div>
